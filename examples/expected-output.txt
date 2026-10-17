@@ -1,0 +1,1 @@
+{"fixture": "supplied hypothetical predictions, not RF outputs or valid harvest policy", "decisions": ["HARVEST_OK: Predicted 12.0 rings \u2265 minimum 11. Approved.", "DEFER: Confidence 0.70 below threshold 0.8. Recommend physical re-measurement.", "PROTECT: Predicted 8.0 rings < minimum 11. Do not harvest."]}
