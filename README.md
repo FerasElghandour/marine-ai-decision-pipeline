@@ -6,14 +6,7 @@ Integrate tabular prediction, targeted generative augmentation, and traceable de
 
 A random-forest ring-count predictor, a VAE trained on older training specimens, synthetic augmentation, explicit defer/protect/allow rules, and an in-memory decision trace.
 
-```mermaid
-flowchart TD
-    N0["Measured or supplied age estimate"] --> N1
-    N1["Attach confidence to estimate"] --> N2
-    N2["Low confidence defers decision"] --> N3
-    N3["Age threshold protects younger specimens"] --> N4
-    N4["Return decision with uncertainty boundary"]
-```
+![Implementation mechanism: Measured or supplied age estimate → Attach confidence to estimate → Low confidence defers decision → Age threshold protects younger specimens → Return decision with uncertainty boundary](assets/mechanism.svg)
 
 ## Try a small example
 
