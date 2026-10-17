@@ -1,0 +1,26 @@
+{
+  "slug": "marine-ai-decision-pipeline",
+  "date": "2026-10-17",
+  "notebook_sha256": "47c11c9c7cdb86aec08b0ed36b293b2085c29b52e0b3442ecf9c93fa5a3c9ee2",
+  "code_cells": 10,
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "torch": "2.14.1",
+  "sklearn": "1.9.1",
+  "inputs": {
+    "abalone.csv": "50126af5ea3554ef637579b40f120be68e26aaa1d354df1e1f0e90775f629b44"
+  },
+  "metrics": {
+    "mae_base": 1.5615,
+    "r2_base": 0.5418,
+    "mae_old_base": 5.1377,
+    "mae_aug": 1.5726,
+    "r2_aug": 0.5416,
+    "mae_old_aug": 4.9848
+  },
+  "plots": [
+    "figure-01.png",
+    "figure-02.png"
+  ],
+  "status": "passed"
+}
