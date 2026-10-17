@@ -8,6 +8,15 @@ A random-forest ring-count predictor, a VAE trained on older training specimens,
 
 ![Implementation mechanism: Measured or supplied age estimate → Attach confidence to estimate → Low confidence defers decision → Age threshold protects younger specimens → Return decision with uncertainty boundary](assets/mechanism.svg)
 
+
+
+## Reproduce model training and decisions
+
+The complete retained notebook has been rerun on the real 4,177-row source table, preserving its original random-forest/VAE augmentation comparison and decision rule. Model artifacts and execution provenance can be exported by the driver.
+
+[Commands, artifacts and benchmark scope](BENCHMARKS.md) · [Versioned profiles](reproduction.json)
+
+
 ## Try a small example
 
 Supplied age and confidence values exercise the notebook decision rule. The example does not run an age estimator or establish a fisheries policy.

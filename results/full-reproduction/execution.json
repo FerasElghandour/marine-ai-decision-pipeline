@@ -1,0 +1,50 @@
+{
+  "source_sha256": "47c11c9c7cdb86aec08b0ed36b293b2085c29b52e0b3442ecf9c93fa5a3c9ee2",
+  "input_sha256": "50126af5ea3554ef637579b40f120be68e26aaa1d354df1e1f0e90775f629b44",
+  "python": "3.14.3",
+  "started_unix": 1792264740.121471,
+  "cells": [
+    {
+      "index": 1,
+      "seconds": 1.3698170419993403
+    },
+    {
+      "index": 2,
+      "seconds": 0.019330666000314523
+    },
+    {
+      "index": 3,
+      "seconds": 0.6994411250016128
+    },
+    {
+      "index": 4,
+      "seconds": 0.6705723330014735
+    },
+    {
+      "index": 5,
+      "seconds": 0.6929975420025585
+    },
+    {
+      "index": 6,
+      "seconds": 0.0005575840004894417
+    },
+    {
+      "index": 7,
+      "seconds": 0.33857050000005984
+    },
+    {
+      "index": 8,
+      "seconds": 0.00020133400175836869
+    },
+    {
+      "index": 9,
+      "seconds": 0.4557716250019439
+    },
+    {
+      "index": 10,
+      "seconds": 0.16711299999951734
+    }
+  ],
+  "status": "success",
+  "finished_unix": 1792264745.696953
+}
