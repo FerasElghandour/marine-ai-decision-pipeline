@@ -74,3 +74,7 @@ python scripts/validate_source.py
 ## Limitations
 
 Synthetic labels are sampled heuristically and may not match generated features. Tree disagreement is a heuristic score, not calibrated confidence. Decision thresholds illustrate a workflow and do not constitute a validated fisheries policy.
+
+## Reuse
+
+The original contributions listed in [LICENSING.md](LICENSING.md) are available under [MIT](LICENSE). This scoped grant preserves upstream notices and separate dataset, simulator, notebook and checkpoint terms.
